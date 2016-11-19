@@ -1,3 +1,4 @@
-data/
-map/
-newdata/
+data
+map
+newdata
+.ipynb_checkpoints
