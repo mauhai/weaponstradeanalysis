@@ -1,0 +1,255 @@
+name;sipri;alpha-3
+ANC (South Africa)*;XSA;
+Afghanistan;AFG;AFG
+African Union**;AU;
+Albania;ALB;ALB
+Algeria;ALG;DZA
+Amal (Lebanon)*;XLA;
+Angola;ANG;AGO
+Anti-Castro rebels (Cuba)*;XCC;
+Argentina;ARG;ARG
+Armas (Guatemala)*;XGC;
+Armenia;ARM;ARM
+Aruba;ABW;ABW
+Australia;AUS;AUS
+Austria;AST;AUT
+Azerbaijan;AZB;AZE
+Bahamas;BAS;BHS
+Bahrain;BAH;BHR
+Bangladesh;BAN;BGD
+Barbados;BAR;BRB
+Belarus;BLR;BLR
+Belgium;BEL;BEL
+Belize;BLZ;BLZ
+Benin;BEN;BEN
+Bhutan;BHU;BTN
+Biafra;BIA;NGA
+Bolivia;BOL;BOL
+Bosnia-Herzegovina;BOS;BIH
+Botswana;BOT;BWA
+Brazil;BRA;BRA
+Brunei;BRU;BRN
+Bulgaria;BUL;BGR
+Burkina Faso;BF;BFA
+Burundi;BDI;BDI
+Cambodia;CMB;KHM
+Cameroon;CAM;CMR
+Canada;CAN;CAN
+Cape Verde;CAP;CPV
+Central African Republic;CAR;CAF
+Chad;CHA;TCD
+Chile;CHE;CHL
+China;CHI;CHN
+Colombia;COL;COL
+Comoros;COM;COM
+Congo;CON;COG
+Contras (Nicaragua)*;XNC;
+Costa Rica;COS;CRI
+Cote d'Ivoire;IVO;CIV
+Croatia;CRO;HRV
+Cuba;CUB;CUB
+Cyprus;CYP;CYP
+Czech Republic;CZR;CZE
+Czechoslovakia;CZE;
+DR Congo;DRC;COD
+Denmark;DEN;DNK
+Djibouti;DJI;DJI
+Dominican Republic;DOM;DOM
+ELF (Ethiopia)*;XEE;
+EPLF (Ethiopia)*;XEP;
+East Germany (GDR);GDR;DEU
+Ecuador;ECU;ECU
+Egypt;EGY;EGY
+El Salvador;SAL;SLV
+Equatorial Guinea;EQU;GNQ
+Eritrea;ERI;ERI
+Estonia;EST;EST
+Ethiopia;ETH;ETH
+FAN (Chad)*;XCF;
+FMLN (El Salvador)*;XSF;
+FNLA (Angola)*;XAF;
+FRELIMO (Portugal)*;XPR;
+Fiji;FJI;FJI
+Finland;FIN;FIN
+France;FRA;FRA
+GUNT (Chad)*;XCG;
+Gabon;GAB;GAB
+Gambia;GAM;GMB
+Georgia;GEO;GEO
+Germany (FRG);FRG;DEU
+Ghana;GHA;GHA
+Greece;GRE;GRC
+Grenada;GND;GRD
+Guatemala;GUA;GTM
+Guinea;GUI;GIN
+Guinea-Bissau;GBI;GNB
+Guyana;GUY;GUY
+Haiti;HAI;HTI
+Haiti rebels*;XHB;
+Hamas (Palestine)*;XPA;
+Hezbollah (Lebanon)*;XLH;
+Honduras;HON;HND
+Hungary;HUN;HUN
+Iceland;ICE;ISL
+India;IND;IND
+Indonesia;INS;IDN
+Indonesia rebels*;XIR;
+Iran;IRA;IRN
+Iraq;IRQ;IRQ
+Ireland;IRE;IRL
+Israel;ISR;ISR
+Italy;ITA;ITA
+Jamaica;JAM;JAM
+Japan;JAP;JPN
+Jordan;JOR;JOR
+Katanga;KAT;
+Kazakhstan;KAZ;KAZ
+Kenya;KEN;KEN
+Khmer Rouge (Cambodia)*;XCR;
+Kiribati;KIR;KIR
+Kosovo;KSV;UNK
+Kuwait;KUW;KWT
+Kyrgyzstan;KYR;KGZ
+LF (Lebanon)*;XLL;
+LRA (Uganda)*;XUL;
+LTTE (Sri Lanka)*;XSL;
+Laos;LAO;LAO
+Latvia;LAT;LVA
+Lebanon;LEB;LBN
+Lebanon Palestinian rebels*;XLP;
+Lesotho;LES;LSO
+Liberia;LIB;LBR
+Libya;LYA;LBY
+Lithuania;LIT;LTU
+Luxembourg;LUX;LUX
+MNLF (Philippines)*;XPQ;
+MPLA (Portugal)*;XPM;
+MTA (Myanmar)*;XMX;
+Macedonia (FYROM);MAC;MAC
+Madagascar;MAD;MDG
+Malawi;MWI;MWI
+Malaysia;MAL;MYS
+Maldives;MLV;MDV
+Mali;MLI;MLI
+Malta;MTA;MLT
+Marshall Islands;MAR;MHL
+Mauritania;MRA;MRT
+Mauritius;MAU;MUS
+Mexico;MEX;MEX
+Micronesia;MIC;FSM
+Moldova;MOL;MDA
+Mongolia;MON;MNG
+Montenegro;MNE;MNE
+Morocco;MOR;MAR
+Mozambique;MOZ;MOZ
+Mujahedin (Afghanistan)*;XAM;
+Myanmar;MYA;MMR
+NATO**;NAT;
+NLA (Macedonia)*;XMN;
+NTC (Libya)*;XLB;
+Namibia;NAM;NAM
+Nepal;NEP;NPL
+Netherlands;NET;NLD
+New Zealand;NZ;NZL
+Nicaragua;NIC;NIC
+Niger;NIR;NER
+Nigeria;NIG;NGA
+North Korea;KON;PRK
+North Yemen;YEN;YEM
+Northern Alliance (Afghanistan)*;XAN;
+Northern Cyprus;NCY;CYP
+Norway;NOR;NOR
+Oman;OMA;OMN
+PAIGC (Portugal)*;XPP;
+PIJ (Israel/Palestine)*;XID;
+PKK (Turkey)*;XTP;
+PLO (Israel)*;XIP;
+PRC (Israel/Palestine)*;XPC;
+Pakistan;PAK;PAK
+Palau;PAL;PLW
+Palestine;PA;PSE
+Panama;PAN;PAN
+Papua New Guinea;PAP;PNG
+Paraguay;PAR;PRY
+Pathet Lao (Laos)*;XLO;
+Peru;PER;PER
+Philippines;PHI;PHL
+Poland;POL;POL
+Portugal;POR;PRT
+Provisional IRA (UK)*;XUI;
+Qatar;QAT;QAT
+RPF (Rwanda)*;XRR;
+RUF (Sierra Leone)*;XSR;
+Regional Security System**;RSS;
+Romania;ROM;ROU
+Russia;RUS;RUS
+Rwanda;RWA;RWA
+SLA (Lebanon)*;XLS;
+SNA (Somalia)*;XSY;
+SPLA (Sudan)*;XSP;
+Saint Kitts and Nevis;SKN;KNA
+Saint Vincent;SVG;VCT
+Samoa;SAM;WSM
+Saudi Arabia;SAU;SAU
+Senegal;SEN;SEN
+Serbia;SER;SRB
+Seychelles;SEY;SYC
+Sierra Leone;SIE;SLE
+Singapore;SIN;SGP
+Slovakia;SLK;SVK
+Slovenia;SLO;SVN
+Solomon Islands;SOL;SLB
+Somalia;SOM;SOM
+South Africa;SA;ZAF
+South Korea;KOS;KOR
+South Sudan;SSD;SDS
+South Vietnam;VNS;
+South Yemen;YES;YEM
+Southern rebels (Yemen)*;XYS;
+Soviet Union;USR;
+Spain;SPA;ESP
+Sri Lanka;SRI;LKA
+Sudan;SUD;SDN
+Suriname;SUR;SUR
+Swaziland;SWA;SWZ
+Sweden;SWE;SWE
+Switzerland;SWI;CHE
+Syria;SYR;SYR
+Syria rebels*;XSX;
+Taiwan (ROC);TAI;TWN
+Tajikistan;TAJ;TJK
+Tanzania;TAN;TZA
+Thailand;THA;THA
+Timor-Leste;ET;TLS
+Togo;TOG;TGO
+Tonga;TON;TON
+Trinidad and Tobago;TRI;TTO
+Tunisia;TUN;TUN
+Turkey;TUR;TUR
+Turkmenistan;TRK;TKM
+Tuvalu;TUV;TUV
+UAE;UAE;ARE
+UIC (Somalia)*;XSI;
+UNITA (Angola)*;XAU;
+Uganda;UGA;UGA
+Ukraine;UKR;UKR
+Ukraine Rebels*;XUR;
+United Kingdom;UK;GBR
+United Nations**;UNO;
+United States;USA;USA
+United Wa State (Myanmar)*;XMU;
+Unknown country;XXX;
+Unknown rebel group*;XXU;
+Uruguay;URU;URY
+Uzbekistan;UZB;UZB
+Vanuatu;VAN;VUT
+Venezuela;VEN;VEN
+Viet Cong (South Vietnam)*;XVC;
+Viet Minh (France)*;XFV;
+Viet Nam;VN;VNM
+Western Sahara;SAH;ESH
+Yemen;YEM;YEM
+Yugoslavia;YUG;MKD
+ZAPU (Zimbabwe)*;XZZ;
+Zambia;ZAM;ZMB
+Zimbabwe;ZIM;ZWE
